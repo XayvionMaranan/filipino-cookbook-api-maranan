@@ -124,21 +124,21 @@ The API uses **Bearer Token Authentication**. To access the `/api` routes, inclu
 
 The API returns standard HTTP status codes to indicate the success or failure of a request:
 
-| Status Code | Description |
+| Status Code | Meaning |
 | :--- | :--- |
-| `200 OK` | The request was successful. |
-| `201 Created` | A new resource (e.g., a food recipe) was successfully created. |
-| `400 Bad Request` | The request was malformed or missing required parameters. |
-| `401 Unauthorized` | Authentication failed or no token was provided. |
-| `404 Not Found` | The requested resource (e.g., food ID) does not exist. |
-| `500 Internal Server Error` | An unexpected error occurred on the server. |
+| `200` | OK |
+| `201` | Created |
+| `400` | Bad Rquest |
+| `401` | Unauthoried |
+| `404` | Not Found |
+| `500` | Internal Server Error |
 
 ---
 
 ## Developer Information
 
-*   **Student Name:** [Enter Your Name]
-*   **Course and Section:** [Enter Course & Section]
-*   **GitHub Username:** [Enter GitHub Username]
-*   **Repository Link:** [Enter Repository Link]
-*   **Date Completed:** August 2, 2026
+*   **Name:** Maranan, Jantzen Xayvion N.
+*   **Course and Section:** BSInfoTech 4-A
+*   **GitHub Username:** XayvionMaranan
+*   **Repository Link:** https://github.com/XayvionMaranan/filipino-cookbook-api-maranan
+*   **Date Completed:** 
